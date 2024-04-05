@@ -2,6 +2,8 @@
 Deep Learning model built to validate between valid invalid and zoomed images
 Model Link: https://drive.google.com/file/d/1RVhUdyHdqnBPfJCCTy0Kfi9U0mvBtUil/view?usp=drive_link
 
+To know more about running the code access the Instructions file
+
 1.Handwritten Image Analysis (Main Function)
 This block cleans up a data folder containing image files by removing any files that aren't recognizable image formats (e.g., jpeg, png).
 
