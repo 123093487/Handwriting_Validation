@@ -1,6 +1,6 @@
 # Handwriting_Validation
 Deep Learning model built to validate between valid invalid and zoomed images
-Model Link: https://drive.google.com/drive/folders/1q3lTYrOrg3RKu0tYrNXmT0qg2cpAGBaj?usp=drive_link
+Model Link: https://drive.google.com/file/d/1RVhUdyHdqnBPfJCCTy0Kfi9U0mvBtUil/view?usp=drive_link
 
 1.Handwritten Image Analysis (Main Function)
 This block cleans up a data folder containing image files by removing any files that aren't recognizable image formats (e.g., jpeg, png).
