@@ -22,5 +22,14 @@ For training Your own handwriting validation model:
 5.run (model.fit) block to start training your own model and save it using (model.save) block.
 6.The model will be trained on number of epochs (iterations).
 
-For directly Testing the trained model for your own test image:
-1.
+For Testing the trained model:
+1.Open cont_val.ipynb file
+2.Direct to the 37th block of notebook named Testing.
+3.Inside the python line (test = cv2.imread('valid_test_3.jpg')) replace the file name with the path of your test image and run the block
+4.On loading the trained model() using (model = load_model('model.h5')) change the name to the path of your downloaded or saved model file
+5.Run the blocks till 44th block of the notebook to obtain your output.
+
+For Explainability:
+1.Run all the test blocks prior to explainability code
+2.Execute all blocks till block 61 to obtain visual representations of test image of why the model predicted the image to a specific class
+
