@@ -22,7 +22,7 @@ For training Your own handwriting validation model:
 5.run (model.fit) block to start training your own model and save it using (model.save) block.
 6.The model will be trained on number of epochs (iterations).
 
-For Testing the trained model:
+For Testing the trained model(Use any images given in git if needed):
 1.Open cont_val.ipynb file
 2.Direct to the 37th block of notebook named Testing.
 3.Inside the python line (test = cv2.imread('valid_test_3.jpg')) replace the file name with the path of your test image and run the block
